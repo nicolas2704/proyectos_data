@@ -1,0 +1,160 @@
+2025-Jul-05-23:33:17 : Proceso de Extraccion Inicializado
+2025-Jul-05-23:33:18 : Proceso de Extraccion Finalizado
+
+2025-Jul-05-23:33:18 : Proceso de Transformacion Inicializado
+2025-Jul-05-23:33:18 : Proceso de Transformacion Finalizado
+
+2025-Jul-05-23:33:18 : Procesos de Cargas Inicializados
+2025-Jul-05-23:33:18 : Carga de Bancos.csv
+2025-Jul-05-23:33:18 : Archivo exportado
+2025-Jul-05-23:33:18 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Jul-05-23:33:18 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Jul-05-23:33:18 : Procesos de Cargas Finalizados
+2025-Jul-05-23:33:18 : Proceso ETL Finalizado
+
+2025-Jul-05-23:33:26 : Proceso ETL inicializado
+
+2025-Jul-05-23:33:26 : Proceso de Extraccion Inicializado
+2025-Jul-05-23:33:27 : Proceso de Extraccion Finalizado
+
+2025-Jul-05-23:33:27 : Proceso de Transformacion Inicializado
+2025-Jul-05-23:33:27 : Proceso de Transformacion Finalizado
+
+2025-Jul-05-23:33:27 : Procesos de Cargas Inicializados
+2025-Jul-05-23:33:27 : Carga de Bancos.csv
+2025-Jul-05-23:33:28 : Archivo exportado
+2025-Jul-05-23:33:28 : Proceso de carga en Base de Datos MySQL Inicializado
+2025-Jul-05-23:33:28 : Proceso de carga en Base de Datos MySQL Finalizado
+2025-Jul-05-23:33:28 : Procesos de Cargas Finalizados
+2025-Jul-05-23:33:28 : Proceso ETL Finalizado
+
+2025-Jul-05-23:33:37 : Proceso de Extraccion Inicializado
+2025-Jul-05-23:33:38 : Proceso de Extraccion Finalizado
+
+2025-Jul-05-23:33:38 : Proceso de Transformacion Inicializado
+2025-Jul-05-23:33:38 : Proceso de Transformacion Finalizado
+
+2025-Jul-05-23:33:38 : Procesos de Cargas Inicializados
+2025-Jul-05-23:33:38 : Carga de Bancos.csv
+2025-Jul-05-23:33:38 : Archivo exportado
+
+2025-Jul-05-23:33:38 : Proceso de carga en Base de Datos SQL Server Inicializado
+2025-Jul-05-23:33:38 : Proceso de carga en Base de Datos SQL Server Finalizado
+2025-Jul-05-23:33:38 : Procesos de Cargas Finalizados
+2025-Jul-05-23:33:38 : Proceso ETL Finalizado
+
+2025-Aug-24-00:03:44 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:05:51 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:06:34 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:11:43 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:11:44 : Proceso de Extraccion Finalizado
+
+2025-Aug-24-00:11:44 : Proceso de Transformacion Inicializado
+2025-Aug-24-00:11:44 : Proceso de Transformacion Finalizado
+
+2025-Aug-24-00:11:44 : Procesos de Cargas Inicializados
+2025-Aug-24-00:11:44 : Carga de Bancos.csv
+2025-Aug-24-00:11:44 : Archivo exportado
+2025-Aug-24-00:11:44 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Aug-24-00:11:44 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Aug-24-00:11:44 : Procesos de Cargas Finalizados
+2025-Aug-24-00:11:44 : Proceso ETL Finalizado
+
+2025-Aug-24-00:18:05 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:18:07 : Proceso de Extraccion Finalizado
+
+2025-Aug-24-00:18:07 : Proceso de Transformacion Inicializado
+2025-Aug-24-00:18:07 : Proceso de Transformacion Finalizado
+
+2025-Aug-24-00:18:07 : Procesos de Cargas Inicializados
+2025-Aug-24-00:18:07 : Carga de Bancos.csv
+2025-Aug-24-00:18:07 : Archivo exportado
+2025-Aug-24-00:18:07 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Aug-24-00:18:07 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Aug-24-00:18:07 : Procesos de Cargas Finalizados
+2025-Aug-24-00:18:07 : Proceso ETL Finalizado
+
+2025-Aug-24-00:19:09 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:19:10 : Proceso de Extraccion Finalizado
+
+2025-Aug-24-00:19:10 : Proceso de Transformacion Inicializado
+2025-Aug-24-00:19:10 : Proceso de Transformacion Finalizado
+
+2025-Aug-24-00:19:10 : Procesos de Cargas Inicializados
+2025-Aug-24-00:19:10 : Carga de Bancos.csv
+2025-Aug-24-00:19:10 : Archivo exportado
+2025-Aug-24-00:19:10 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Aug-24-00:19:10 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Aug-24-00:19:10 : Procesos de Cargas Finalizados
+2025-Aug-24-00:19:10 : Proceso ETL Finalizado
+
+2025-Aug-24-00:22:51 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:22:52 : Proceso de Extraccion Finalizado
+
+2025-Aug-24-00:22:52 : Proceso de Transformacion Inicializado
+2025-Aug-24-00:22:52 : Proceso de Transformacion Finalizado
+
+2025-Aug-24-00:22:52 : Procesos de Cargas Inicializados
+2025-Aug-24-00:22:52 : Carga de Bancos.csv
+2025-Aug-24-00:22:52 : Archivo exportado
+2025-Aug-24-00:22:52 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Aug-24-00:22:52 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Aug-24-00:22:52 : Procesos de Cargas Finalizados
+2025-Aug-24-00:22:52 : Proceso ETL Finalizado
+
+2025-Aug-24-00:25:35 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:25:37 : Proceso de Extraccion Finalizado
+
+2025-Aug-24-00:25:37 : Proceso de Transformacion Inicializado
+2025-Aug-24-00:25:37 : Proceso de Transformacion Finalizado
+
+2025-Aug-24-00:25:37 : Procesos de Cargas Inicializados
+2025-Aug-24-00:25:37 : Carga de Bancos.csv
+2025-Aug-24-00:25:37 : Archivo exportado
+2025-Aug-24-00:25:37 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Aug-24-00:25:37 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Aug-24-00:25:37 : Procesos de Cargas Finalizados
+2025-Aug-24-00:25:37 : Proceso ETL Finalizado
+
+2025-Aug-24-00:26:26 : Proceso de Extraccion Inicializado
+2025-Aug-24-00:26:27 : Proceso de Extraccion Finalizado
+
+2025-Aug-24-00:26:27 : Proceso de Transformacion Inicializado
+2025-Aug-24-00:26:27 : Proceso de Transformacion Finalizado
+
+2025-Aug-24-00:26:27 : Procesos de Cargas Inicializados
+2025-Aug-24-00:26:27 : Carga de Bancos.csv
+2025-Aug-24-00:26:27 : Archivo exportado
+2025-Aug-24-00:26:27 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Aug-24-00:26:27 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Aug-24-00:26:27 : Procesos de Cargas Finalizados
+2025-Aug-24-00:26:27 : Proceso ETL Finalizado
+
+2025-Aug-25-13:45:20 : Proceso de Extraccion Inicializado
+2025-Aug-25-13:45:23 : Proceso de Extraccion Finalizado
+
+2025-Aug-25-13:45:23 : Proceso de Transformacion Inicializado
+2025-Aug-25-13:45:23 : Proceso de Transformacion Finalizado
+
+2025-Aug-25-13:45:23 : Procesos de Cargas Inicializados
+2025-Aug-25-13:45:23 : Carga de Bancos.csv
+2025-Aug-25-13:45:23 : Archivo exportado
+2025-Aug-25-13:45:23 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Aug-25-13:45:33 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Aug-25-13:45:33 : Procesos de Cargas Finalizados
+2025-Aug-25-13:45:33 : Proceso ETL Finalizado
+
+2025-Aug-25-13:46:52 : Proceso de Extraccion Inicializado
+2025-Aug-25-13:46:53 : Proceso de Extraccion Finalizado
+
+2025-Aug-25-13:46:53 : Proceso de Transformacion Inicializado
+2025-Aug-25-13:46:53 : Proceso de Transformacion Finalizado
+
+2025-Aug-25-13:46:53 : Procesos de Cargas Inicializados
+2025-Aug-25-13:46:53 : Carga de Bancos.csv
+2025-Aug-25-13:46:53 : Archivo exportado
+2025-Aug-25-13:46:53 : Proceso de carga en Base de Datos PostgreSQL Inicializado
+2025-Aug-25-13:46:53 : Proceso de carga en Base de Datos PostgreSQL Finalizado
+2025-Aug-25-13:46:53 : Procesos de Cargas Finalizados
+2025-Aug-25-13:46:53 : Proceso ETL Finalizado
+
